@@ -1,5 +1,5 @@
 ProductKey,ProductSubcategoryKey,ProductSKU,ProductName,ModelName,ProductDescription,ProductColor,ProductSize,ProductStyle,ProductCost,ProductPrice
-214,31,HL-U509-R,"Chrid, Red",Sport-100,"Chris fit, well-vented, lightweight , snap-Christop visor.",Red,0,0,13.0863,34.99
+214,31,HL-U509-R,"Chrid, Red",Sport-100,"Chris fit, well-vented, lightweight , snap-Christop visor.",Red,0,0,111,111
 215,31,HL-U509,"Sport-100 Helmet, Black",Sport-100,"Universal fit, well-vented, lightweight , snap-on visor.",Black,0,0,12.0278,33.6442
 218,23,SO-B909-M,"Mountain Bike Socks, M",Mountain Bike Socks,Combination of natural and synthetic fibers stays dry and provides just the right cushioning.,White,M,U,3.3963,9.5
 219,23,SO-B909-L,"Mountain Bike Socks, L",Mountain Bike Socks,Combination of natural and synthetic fibers stays dry and provides just the right cushioning.,White,L,U,3.3963,9.5
@@ -37,7 +37,7 @@ ProductKey,ProductSubcategoryKey,ProductSKU,ProductName,ModelName,ProductDescrip
 293,12,FR-M94S-46,"HL Mountain Frame - Silver, 46",HL Mountain Frame,Each frame is hand-crafted in our Bothell facility to the optimum diameter and wall-thickness required of a premium mountain frame. The heat-treated welded aluminum frame has a larger diameter tube that absorbs the bumps.,Silver,46,U,623.8403,1204.3248
 296,12,FR-M94B-42,"HL Mountain Frame - Black, 42",HL Mountain Frame,Each frame is hand-crafted in our Bothell facility to the optimum diameter and wall-thickness required of a premium mountain frame. The heat-treated welded aluminum frame has a larger diameter tube that absorbs the bumps.,Black,42,U,617.0281,1191.1739
 299,12,FR-M94B-44,"HL Mountain Frame - Black, 44",HL Mountain Frame,Each frame is hand-crafted in our Bothell facility to the optimum diameter and wall-thickness required of a premium mountain frame. The heat-treated welded aluminum frame has a larger diameter tube that absorbs the bumps.,Black,44,U,699.0928,1349.6
-300,12,FR-M94B-48,"HL Mountain Frame - Black, 48",HL Mountain Frame,Each frame is hand-crafted in our Bothell facility to the optimum diameter and wall-thickness required of a premium mountain frame. The heat-treated welded aluminum frame has a larger diameter tube that absorbs the bumps.,Black,48,U,699.0928,1349.6
+300,12,FR-M94B-48,"HL Mountain Frame - Black, 48",HL Mountain Frame,Each frame is hand-crafted in our Bothell facility to the optimum diameter and wall-thickness required of a premium mountain frame. The heat-treated welded aluminum frame has a larger diameter tube that absorbs the bumps.,Black,477777,U,777.0928,1111.6
 301,12,FR-M94B-46-CH,"Chris - Black, 46",HL Mountain Frame,Each frame is hand-crafted in our Bothell facility to the optimum diameter and wall-thickness required of a premium mountain frame. The heat-treated welded aluminum frame has a larger diameter tube that absorbs the bumps.,Black,46,U,617.0281,1191.1739
 304,12,FR-M94B-38,"HL Mountain Frame - Black, 38",HL Mountain Frame,Each frame is hand-crafted in our Bothell facility to the optimum diameter and wall-thickness required of a premium mountain frame. The heat-treated welded aluminum frame has a larger diameter tube that absorbs the bumps.,Black,38,U,617.0281,1191.1739
 307,12,FR-M94S-38,"HL Mountain Frame - Silver, 38",HL Mountain Frame,Each frame is hand-crafted in our Bothell facility to the optimum diameter and wall-thickness required of a premium mountain frame. The heat-treated welded aluminum frame has a larger diameter tube that absorbs the bumps.,Silver,38,U,623.8403,1204.3248
@@ -285,7 +285,7 @@ ProductKey,ProductSubcategoryKey,ProductSKU,ProductName,ModelName,ProductDescrip
 597,1,BK-M18B-42,"Mountain-500 Black, 42",Mountain-500,"Suitable for any type of riding, on or off-road. Fits any budget. Smooth-shifting with a comfortable ride.",Black,42,U,294.5797,539.99
 598,1,BK-M18B-44,"Mountain-500 Black, 44",Mountain-500,"Suitable for any type of riding, on or off-road. Fits any budget. Smooth-shifting with a comfortable ride.",Black,44,U,294.5797,539.99
 599,1,BK-M18B-48,"Mountain-500 Black, 48",Mountain-500,"Suitable for any type of riding, on or off-road. Fits any budget. Smooth-shifting with a comfortable ride.",Black,48,U,294.5797,539.99
-600,1,BK-M18B-52,"Mountain-500-CHRIS Black, 52",Mountain-500,"Suitable for any type of riding, on or off-road. Fits any budget. Smooth-shifting with a comfortable ride.",Black,52,U,294.5797,539.99
+600,1,BK-M18B-52,"Mountain-500-CHRIS Black, 52",Mountain-500,"Suitable for any type of riding, on or off-road. Fits any budget. Smooth-shifting with a comfortable ride.",Black,77,U,777.6666,579.99
 601,5,BB-7421,LL Bottom Bracket,LL Bottom Bracket,Chromoly steel.,NA,0,0,23.9716,53.99
 602,5,BB-8107,ML Bottom Bracket,ML Bottom Bracket,Aluminum alloy cups; large diameter spindle.,NA,0,0,44.9506,101.24
 603,5,BB-9108,HL Bottom Bracket,HL Bottom Bracket,Aluminum alloy cups and a hollow axle.,NA,0,0,53.9416,121.49
